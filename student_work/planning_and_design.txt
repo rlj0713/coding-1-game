@@ -4,6 +4,11 @@ Part I: Planning & Design (15 pts)
 * Game rules and player actions are written or sketched out
 * Main objects (player, obstacles, goals, enemies, etc.) are identified
 * Sketch a simple plan showing how the game will work step-by-step
+* Identify which icons you are going to use and get the unicode for those icons
+* Determine your board size
+* Determine your scoring system
+* Determine win / lose conditions
+* Outline expansion ideas
 
 Game Idea:
 
