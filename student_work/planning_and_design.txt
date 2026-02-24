@@ -12,11 +12,16 @@ Part I: Planning & Design (15 pts)
 
 Game Idea:
 
+Space Invader
 
 Game Rules:
+
 
 
 Major Game Elements:
 
 
+
 Gameplay Process:
+
+
