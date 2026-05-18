@@ -1,7 +1,5 @@
 # Video Game Project
 
-Due date: 3/6
-
 When you finish, add your names and a video link here, then submit one link to your project repository.
 
 Group Members: (list all group members here)
